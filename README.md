@@ -126,12 +126,4 @@ Actualmente estoy desarrollando mis habilidades en **desarrollo de software, an�
 - 🎬 Disfruto ver películas, series y contenido de terror
 
 <br>
-
-<div align="center">
-
-*«Nunca se deja de aprender cuando la curiosidad te acompaña». ♡*
-
-</div>
-
-<br>
 <hr>
