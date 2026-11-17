@@ -43,7 +43,7 @@
 
 <div align="center">
 
-# 🛠️ Herramientas y tecnologías
+# 🛠️ Herramientas & Tecnologías
 
 *Tecnologías, herramientas y conocimientos en mis áreas de interés.*
 
@@ -101,3 +101,37 @@
 <br>
 <hr>
 
+<div align="center">
+
+# ♡ Un poquito sobre mí
+
+</div>
+
+¡Hola! Soy Maleny, tengo formación en **Tecnologías de la Información y Comunicaciones** y me apasiona el mundo de la tecnología.
+
+Me gusta aprender cosas nuevas, explorar diferentes áreas de la informática y convertir mis conocimientos en proyectos que aporten soluciones.
+
+Actualmente estoy desarrollando mis habilidades en **desarrollo de software, análisis de datos y ciberseguridad**, buscando seguir creciendo profesionalmente y afrontar nuevos retos.
+
+### ✨ Algunas cosas sobre mí
+
+- 🎓 Formación en Tecnologías de la Información y Comunicaciones.
+- 💻 Me gusta aprender sobre programación, bases de datos y nuevas tecnologías.
+- 🚀 Disfruto crear proyectos y encontrar soluciones a problemas.
+- 🌱 Siempre estoy buscando nuevos conocimientos y oportunidades para crecer.
+
+### 🌸 Fuera del código...
+
+- 🎨 Me gusta la creatividad, el diseño y personalizar espacios digitales.
+- 🎬 Disfruto ver películas, series y contenido de terror
+
+<br>
+
+<div align="center">
+
+*«Nunca se deja de aprender cuando la curiosidad te acompaña». ♡*
+
+</div>
+
+<br>
+<hr>
