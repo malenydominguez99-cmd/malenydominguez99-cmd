@@ -124,6 +124,19 @@ Actualmente estoy desarrollando mis habilidades en **desarrollo de software, an�
 
 - 🎨 Me gusta la creatividad, el diseño y personalizar espacios digitales.
 - 🎬 Disfruto ver películas, series y contenido de terror
+<br>
+<hr>
+
+<div align="center">
+
+# 📈 Estadísticas de GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malenydominguez99-cmd&show_icons=true&theme=tokyonight&bg_color=21182F&title_color=C7A5E8&icon_color=BB9AD9&text_color=FFFFFF&border_color=60447F&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malenydominguez99-cmd&layout=compact&theme=tokyonight&bg_color=21182F&title_color=C7A5E8&text_color=FFFFFF&border_color=60447F" />
+
+</div>
 
 <br>
 <hr>
+
