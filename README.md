@@ -140,3 +140,21 @@ Actualmente estoy desarrollando mis habilidades en **desarrollo de software, an�
 <br>
 <hr>
 
+
+<br>
+<hr>
+
+<div align="center">
+
+# 🚀 Explora mis proyectos
+
+Descubre mi trabajo, prácticas y proyectos en las diferentes áreas de tecnología.
+
+<a href="https://github.com/malenydominguez99-cmd/mi-portafolio">
+<img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO-8064A2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+<hr>
